@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Safiya Safy <safiyasafy65th@gmail.com>
+Shem Ogata  <shemogata@gmail.com>
 
 Second part of Airbnb: Joann Vuong
 ## License
