@@ -154,6 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Jennifer Huang <133@holbertonschool.com>
+Alexa Orrico <210@holbertonschool.com>
+Joann Vuong <130@holbertonschool.com> 
 Safiya Safy <safiyasafy65th@gmail.com>
 Shem Ogata  <shemogata@gmail.com>
 
