@@ -154,12 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jennifer Huang <133@holbertonschool.com>
-Alexa Orrico <210@holbertonschool.com>
-Joann Vuong <130@holbertonschool.com> 
-Safiya Safy <safiyasafy65th@gmail.com>
-Shem Ogata  <shemogata@gmail.com>
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Shem Ogata - [Github](https://github.com/osinnworld) / [Twitter](https://twitter.com/osinnworld)  
+Safiya Safy - [Github](https://github.com/safiy-safy)
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection.
+Public Domain. No copy write protection. 
