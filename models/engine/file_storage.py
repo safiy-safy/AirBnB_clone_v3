@@ -74,7 +74,7 @@ class FileStorage:
         self.reload()
 
     def get(self, cls, id):
-<<<<<<< HEAD
+
         '''object to get'''
         if cls and id:
             takeObj = '{}.{}'.format(cls, id)
@@ -86,7 +86,7 @@ class FileStorage:
     def count(self, cls=None):
         '''class that is (optional)'''
         return (len(self.all(cls)))
-=======
+
         """
         Returns the object based on the class name and its ID, or
         None if not found
@@ -115,4 +115,3 @@ class FileStorage:
             count = len(models.storage.all(cls).values())
 
         return count
->>>>>>> 786f9e0ae481e4081911ffa95651c60829dbcaff
